@@ -1,0 +1,4 @@
+# Changes to workflows and to this file need a code-owner review
+# (enforced by the "Wavekey merge gate" ruleset: require_code_owner_review).
+/.github/workflows/ @Everlinkdev
+/.github/CODEOWNERS @Everlinkdev
